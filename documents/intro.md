@@ -6,11 +6,7 @@
 
 当您正在构建 LL 型模型时，非常重要的是保护免受提示攻击，这些攻击可能会绕过安全护栏并违反模型的指导原则。我们将在下面介绍此类示例。请注意，为了解决这里记录的某些问题，OpenAI 已经实现了更健壮的模型。在 2023 年 5月，对于 GPT-3.5 或 GPT4 而言，下面的大多数提示攻击的示例不再有效，但依然可以作为一个大致的参考案例，可供学习对应的思路。
 
-> 完整的中文版本指南和更丰富的参考资料在 Github 和 Gitee 中，自动持续翻译更新：
-> 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全
->
-> - <https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN>
-> - <https://gitee.com/yunwei37/Prompt-Engineering-Guide-zh-CN>
+翻译和修改自：
 
 <!-- TOC -->
 
@@ -301,4 +297,8 @@ Riley 提出的另一个[防御方法](https://twitter.com/goodside/status/15694
 - [机器生成的文本：威胁模型和检测方法的全面调查](https://arxiv.org/abs/2210.07321) (2022年10月)
 - [针对GPT-3的提示注入攻击](https://simonwillison.net/2022/Sep/12/prompt-injection/) (2022年9月)
 
-> - 来源：<https://github.com/yunwei37/Awesome-Prompt-Engineering-ZH-CN>
+> 完整的中文版本指南和更丰富的参考资料在 Github 和 Gitee 中，自动持续翻译更新：
+> 🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全
+>
+> - <https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN>
+> - <https://gitee.com/yunwei37/Prompt-Engineering-Guide-zh-CN>
