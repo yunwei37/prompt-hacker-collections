@@ -1,45 +1,53 @@
-# 关于提示词对抗、破解、攻防的例子与笔记
+# 🛡️ Prompt-adversarial collections
 
-prompt-injection attack, defense, and interesting examples
+![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)
 
-## 项目介绍
+This repository serves as a comprehensive resource on the study and practice of prompt-injection attacks, defenses, and interesting examples. It contains a collection of examples, case studies, and detailed notes aimed at researchers, students, and security professionals interested in this topic.
 
-这个项目是一个全面的关于提示词对抗、破解、攻防的研究和实践资源库。我们提供了一系列的示例、案例研究和详细的笔记，以帮助那些对此主题感兴趣的研究者、学生、以及安全专业人士深入理解和实践。
+本仓库是关于提示词注入攻防及其有趣示例的收集资源。
 
+## 📚 Table of Contents
 
-## 目录
+In this repository, you'll find:
 
-在这个仓库中，你将找到以下内容：
+### **📖 Introduction**
 
-### **简介**： 这部分介绍了提示词对抗、破解、攻防的基本概念和背景知识，以及一些相关的综述材料
+This section presents basic concepts and background knowledge on prompt-injection attacks, defenses, and interesting examples. It also contains some review materials.
 
-[**提示词对抗简介**](./introductions/intro.md)
-[**提示词破解**](./introductions/reverse.md)
-[**提示词攻击**](./introductions/attack.md)
-[**提示词防御**](./introductions/defense.md)
+这部分介绍了提示词注入攻防及其有趣示例的基本概念和背景知识，也包含一些综述材料。
 
-### **提示词破解**： 这部分提供了提示词破解的详细步骤和示例，包括使用的技术和工具
+- [**提示词注入简介 Introduction to Prompt-Injection**](./introductions/intro.md)
+- [**提示词反向工程 Prompt Reverse Engineering**](./introductions/reverse.md)
+- [**提示词攻击 Prompt Attacks**](./introductions/attack.md)
+- [**提示词防御 Prompt Defense**](./introductions/defense.md)
 
-[例子：copilot 破解](reverse/copilot.md)
+### **🔧 Prompt Reverse Engineering**
 
-### **提示词攻击**： 这部分介绍了如何防御提示词注入和攻击策略，以及对应的最佳实践
+This section provides detailed steps and examples of prompt reverse engineering, including the techniques and tools used.
 
-## 如何使用
+- [**Example: Copilot Reverse Engineering**](reverse/copilot.md)
 
-如果你想了解提示词对抗、破解、攻防的具体内容，可以直接查看我们的示例和笔记。如果你想在自己的项目中使用这些资源，也欢迎你下载和引用，但请注明来源。
+### **🔗 相关资源 Related Resources**
 
-## 参与贡献
+Here are some related resources that can help you understand prompt-injection attacks, defenses, and interesting examples better:
 
-我们非常欢迎所有人参与这个项目的贡献。如果你有任何想法、建议或者发现了错误，欢迎提交 issue 或者 pull request。
+这里有一些可以帮助你更好地理解提示词注入攻防及其有趣示例的相关资源：
 
-## 许可
+- **博客 Blogs**
+- **Twitter 主题串 Twitter threads**
 
-这个项目使用 MIT 许可证，具体详情请查看 `LICENSE` 文件。
+## 🤝 Contributing
 
-## 联系我们
+We welcome everyone to contribute to this project. If you have any ideas, suggestions,
 
-如果你有任何问题或者建议，欢迎通过 email 联系我们。
+or have found errors, feel free to submit an issue or a pull request. For more details, please refer to our [Contribution Guidelines](./CONTRIBUTING.md).
 
-## 免责声明
+## 📃 License
+
+This project is licensed under the MIT License. For more details, please refer to the `LICENSE` file.
+
+## ⚠️ Disclaimer
+
+This project is intended for academic research and education. We are not responsible for any illegal use of these resources. Please abide by the laws and regulations of your country/region when using these resources.
 
 这个项目的目的是为了学术研究和教育，我们不对任何非法使用这些资源的行为负责。在使用这些资源时，请遵守你所在国家/地区的法律法规。
