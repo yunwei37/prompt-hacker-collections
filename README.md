@@ -32,8 +32,8 @@ Here are some related resources that can help you understand prompt-injection at
 
 这里有一些可以帮助你更好地理解提示词注入攻防及其有趣示例的相关资源：
 
-- **博客 Blogs**
-- **Twitter 主题串 Twitter threads**
+- [OpenAI 大模型安全的最佳实践 safety-best-practices](https://platform.openai.com/docs/guides/safety-best-practices)
+- [大型语言模型（LLM）的红队介绍](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/concepts/red-teaming)
 
 ## 🤝 Contributing
 
