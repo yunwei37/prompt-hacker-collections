@@ -16,7 +16,7 @@ In this repository, you'll find:
 
 这部分介绍了提示词注入攻防及其有趣示例的基本概念和背景知识，也包含一些完整的示例。
 
-- [**提示词对抗简介**](./introductions/intro.md)
+- [**提示词对抗简介**](./documents/intro.md)
 
 ### **📝 Prompt Collections**
 
